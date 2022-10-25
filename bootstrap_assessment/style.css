@@ -1,0 +1,51 @@
+.navbar-brand{
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+.navbar-right{
+  width:70px;
+}
+
+blockquote p{
+  font:180px;
+}
+
+.vision{
+  width:70px;
+  margin-left:720px;
+
+}
+
+.mission{
+  width:96px;
+  margin-left:700px;
+}
+
+.product{
+  width:1500px;
+  height:580px;
+}
+
+.text-white{
+  font:white;
+}
+.text-center{
+  width:1050px;
+}
+
+.gallery1{
+  width:1500px;
+}
+
+.display-3{
+  background-color:rgb(191, 229, 241);
+}
+
+.para{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.contact{
+  background-color:lightgoldenrodyellow;
+}
